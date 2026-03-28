@@ -4,11 +4,11 @@ class Solution {
        for (int i=0;i<nums.length;i++){
         h.put(nums[i],h.getOrDefault(nums[i],0)+1);
        }
-       for(Map.Entry<Integer,Integer> e:h.entrySet()){
-        if (e.getValue()>(nums.length/2)){
-            return e.getKey();
+       for(int i:h.keySet()){
+        if (h.get(i)>(nums.length/2)){
+            return i;
         }
        }
-       return 0;
+       return -1;
     }
 }
