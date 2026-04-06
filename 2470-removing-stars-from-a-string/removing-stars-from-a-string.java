@@ -9,14 +9,10 @@ class Solution {
                 st.pop();
             }
             }
-          String result = "";
+          StringBuilder sb=new StringBuilder();
           while(!st.isEmpty()){
-            result+=st.pop();
+            sb.append(st.pop());
           }
-          String r="";
-          for(int i=result.length()-1;i>=0;i--){
-            r+=result.charAt(i);
-          }
-            return r;
+            return sb.reverse().toString();
     }
 }
