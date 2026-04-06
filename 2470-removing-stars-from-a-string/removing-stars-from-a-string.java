@@ -5,7 +5,7 @@ class Solution {
             if(s.charAt(i)!='*'){
             st.push(s.charAt(i));
             }
-            if(s.charAt(i)=='*'){
+            else{
                 st.pop();
             }
             }
