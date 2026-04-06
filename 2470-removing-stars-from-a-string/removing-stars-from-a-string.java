@@ -9,9 +9,14 @@ class Solution {
                 st.pop();
             }
             }
-          String result = st.stream()
-                     .map(Object::toString)
-                     .collect(Collectors.joining("")); 
-            return result;
+          String result = "";
+          while(!st.isEmpty()){
+            result+=st.pop();
+          }
+          String r="";
+          for(int i=result.length()-1;i>=0;i--){
+            r+=result.charAt(i);
+          }
+            return r;
     }
 }
