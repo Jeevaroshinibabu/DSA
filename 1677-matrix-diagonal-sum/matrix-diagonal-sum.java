@@ -6,12 +6,12 @@ class Solution {
             i++;
             j++;
       }
-      int k=n-1;
+      j=n-1;
       i=0;
-      while(k>=0){
-           if(i!=k){
-            c+=mat[k][i];}
-            k--;
+      while(j>=0){
+           if(i!=j){
+            c+=mat[j][i];}
+            j--;
             i++;
            
       }
