@@ -12,12 +12,12 @@ class Solution {
             }
         }
 
-        for(int i=0;i<grid.length;i++){
+        for(int i=0;i<n;i++){
             if(grid[i][0]==1){
                 dfs(grid,i,0);
             }
-            if(grid[i][grid[0].length-1]==1){
-                dfs(grid,i,grid[0].length-1);
+            if(grid[i][m-1]==1){
+                dfs(grid,i,m-1);
             }
         }
         for(int i=0;i<grid.length;i++){
