@@ -1,50 +1,45 @@
 class Solution {
     public void solve(char[][] board) {
-        if (board == null || board.length == 0) return;
-        
-        int rows = board.length;
-        int cols = board[0].length;
-        
-        
-        for (int i = 0; i < rows; i++) {
-            if (board[i][0] == 'O') dfs(board, i, 0);
-            if (board[i][cols - 1] == 'O') dfs(board, i, cols - 1);
+        int m=board.length;
+        int n=board[0].length;
+
+        for(int i=0;i<m;i++){
+            if(board[i][0]=='O'){
+                dfs(board,i,0);
+            }
+            if(board[i][n-1]=='O'){
+                dfs(board,i,n-1);
+            }
         }
-        
-       
-        for (int j = 0; j < cols; j++) {
-            if (board[0][j] == 'O') dfs(board, 0, j);
-            if (board[rows - 1][j] == 'O') dfs(board, rows - 1, j);
+        for(int i=0;i<n;i++){
+            if(board[0][i]=='O'){
+                dfs(board,0,i);
+            }
+            if(board[m-1][i]=='O'){
+                dfs(board,m-1,i);
+            }
         }
-        
-       
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (board[i][j] == 'O') {
-                    board[i][j] = 'X';
-                } else if (board[i][j] == '#') {
-                    board[i][j] = 'O';
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(board[i][j]=='O'){
+                    board[i][j]='X';
+                }
+                if(board[i][j]=='#'){
+                    board[i][j]='O';
                 }
             }
         }
     }
-    
-    private void dfs(char[][] board, int i, int j) {
-        int rows = board.length;
-        int cols = board[0].length;
-        
-        
-        if (i < 0 || i >= rows || j < 0 || j >= cols || board[i][j] != 'O') {
+    public void dfs(char[][] b,int r,int c){
+        int m=b.length;
+        int n=b[0].length;
+        if(r<0||c<0||c>=n||r>=m||b[r][c]!='O'){
             return;
         }
-        
-        
-        board[i][j] = '#';
-        
-        
-        dfs(board, i + 1, j);
-        dfs(board, i - 1, j);
-        dfs(board, i, j + 1);
-        dfs(board, i, j - 1);
+        b[r][c]='#';
+        dfs(b,r,c-1);
+        dfs(b,r,c+1);
+        dfs(b,r-1,c);
+        dfs(b,r+1,c);
     }
 }
