@@ -5,18 +5,18 @@ class Solution {
 
         for(int i=0;i<m;i++){
             if(board[i][0]=='O'){
-                dfs(board,i,0);
+                bfs(board,i,0);
             }
             if(board[i][n-1]=='O'){
-                dfs(board,i,n-1);
+                bfs(board,i,n-1);
             }
         }
         for(int i=0;i<n;i++){
             if(board[0][i]=='O'){
-                dfs(board,0,i);
+                bfs(board,0,i);
             }
             if(board[m-1][i]=='O'){
-                dfs(board,m-1,i);
+                bfs(board,m-1,i);
             }
         }
         for(int i=0;i<m;i++){
@@ -30,16 +30,30 @@ class Solution {
             }
         }
     }
-    public void dfs(char[][] b,int r,int c){
+    public void bfs(char[][] b ,int r,int c){
         int m=b.length;
         int n=b[0].length;
-        if(r<0||c<0||c>=n||r>=m||b[r][c]!='O'){
-            return;
-        }
+        Queue<int[]> q=new LinkedList<>();
+        
         b[r][c]='#';
-        dfs(b,r,c-1);
-        dfs(b,r,c+1);
-        dfs(b,r-1,c);
-        dfs(b,r+1,c);
+        q.offer(new int[]{r,c});
+
+        int[] drow={-1,1,0,0};
+        int[] dcol={0,0,-1,1};
+        while(!q.isEmpty()){
+            int[] ce=q.poll();
+            int cr=ce[0];
+            int cc=ce[1];
+
+            for(int i=0;i<4;i++){
+                int nr=cr+drow[i];
+                int nc=cc+dcol[i];
+
+                if(nr>=0&&nr<m&&nc>=0&&nc<n&& b[nr][nc]=='O'){
+                    b[nr][nc]='#';
+                    q.offer(new int[]{nr,nc});
+                }
+            }
+        }
     }
-}
+    }
