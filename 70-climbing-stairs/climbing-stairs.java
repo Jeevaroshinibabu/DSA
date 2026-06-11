@@ -1,17 +1,17 @@
 class Solution {
     public int climbStairs(int n) {
-        int c=0;
-        int a=1;
-        int b=2;
-        if(n==1){
-            return 1;
+        int[] m=new int[n+1];
+        return solve(m,n);
+        
+    }
+    public int solve(int[] m,int n){
+        if(n<=3){
+            return n;
         }
-        for(int i=3;i<=n;i++){
-            c=a+b;
-            a=b;
-            b=c;
-
+        if(m[n]!=0){
+            return m[n];
         }
-        return b;
+        m[n]= solve(m,n-1)+solve(m,n-2);
+        return m[n];
     }
 }
