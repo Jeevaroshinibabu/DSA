@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jeevaroshinibabu/DSA/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Jeevaroshinibabu/DSA/tree/master/0506-relative-ranks) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/Jeevaroshinibabu/DSA/tree/master/0506-relative-ranks) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Jeevaroshinibabu/DSA/tree/master/0279-perfect-squares) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,4 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
