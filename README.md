@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Jeevaroshinibabu/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Jeevaroshinibabu/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jeevaroshinibabu/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Jeevaroshinibabu/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/Jeevaroshinibabu/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/Jeevaroshinibabu/DSA/tree/master/0279-perfect-squares) |
 | [3620-network-recovery-pathways](https://github.com/Jeevaroshinibabu/DSA/tree/master/3620-network-recovery-pathways) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Jeevaroshinibabu/DSA/tree/master/3620-network-recovery-pathways) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Jeevaroshinibabu/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
