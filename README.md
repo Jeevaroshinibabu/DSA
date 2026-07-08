@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Jeevaroshinibabu/DSA/tree/master/0279-perfect-squares) |
 | [0869-reordered-power-of-2](https://github.com/Jeevaroshinibabu/DSA/tree/master/0869-reordered-power-of-2) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jeevaroshinibabu/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,8 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jeevaroshinibabu/DSA/tree/master/0032-longest-valid-parentheses) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jeevaroshinibabu/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
