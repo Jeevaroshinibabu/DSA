@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevaroshinibabu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Jeevaroshinibabu/DSA/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Jeevaroshinibabu/DSA/tree/master/0506-relative-ranks) |
 | [0869-reordered-power-of-2](https://github.com/Jeevaroshinibabu/DSA/tree/master/0869-reordered-power-of-2) |
 | [1288-remove-covered-intervals](https://github.com/Jeevaroshinibabu/DSA/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevaroshinibabu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Jeevaroshinibabu/DSA/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Jeevaroshinibabu/DSA/tree/master/0268-missing-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Jeevaroshinibabu/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/Jeevaroshinibabu/DSA/tree/master/0279-perfect-squares) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jeevaroshinibabu/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Jeevaroshinibabu/DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -153,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jeevaroshinibabu/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevaroshinibabu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Jeevaroshinibabu/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -178,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
