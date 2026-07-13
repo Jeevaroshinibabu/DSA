@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Jeevaroshinibabu/DSA/tree/master/0869-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/Jeevaroshinibabu/DSA/tree/master/1291-sequential-digits) |
 ## Linked List
 |  |
 | ------- |
