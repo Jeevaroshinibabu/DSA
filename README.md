@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeevaroshinibabu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevaroshinibabu/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Jeevaroshinibabu/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Jeevaroshinibabu/DSA/tree/master/0506-relative-ranks) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Jeevaroshinibabu/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevaroshinibabu/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Jeevaroshinibabu/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeevaroshinibabu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Jeevaroshinibabu/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jeevaroshinibabu/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
