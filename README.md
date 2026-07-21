@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Jeevaroshinibabu/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeevaroshinibabu/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Jeevaroshinibabu/DSA/tree/master/0506-relative-ranks) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Jeevaroshinibabu/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeevaroshinibabu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Jeevaroshinibabu/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/1260-shift-2d-grid) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Jeevaroshinibabu/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
