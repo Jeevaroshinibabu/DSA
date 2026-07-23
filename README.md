@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Jeevaroshinibabu/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Jeevaroshinibabu/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeevaroshinibabu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/Jeevaroshinibabu/DSA/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevaroshinibabu/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Jeevaroshinibabu/DSA/tree/master/0162-find-peak-element) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Jeevaroshinibabu/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jeevaroshinibabu/DSA/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/Jeevaroshinibabu/DSA/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Jeevaroshinibabu/DSA/tree/master/0268-missing-number) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jeevaroshinibabu/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/Jeevaroshinibabu/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0139-word-break](https://github.com/Jeevaroshinibabu/DSA/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/Jeevaroshinibabu/DSA/tree/master/0279-perfect-squares) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jeevaroshinibabu/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeevaroshinibabu/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Jeevaroshinibabu/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jeevaroshinibabu/DSA/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Jeevaroshinibabu/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0139-word-break](https://github.com/Jeevaroshinibabu/DSA/tree/master/0139-word-break) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jeevaroshinibabu/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jeevaroshinibabu/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -269,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0219-contains-duplicate-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Jeevaroshinibabu/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Jeevaroshinibabu/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
