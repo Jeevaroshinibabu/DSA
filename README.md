@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Jeevaroshinibabu/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jeevaroshinibabu/DSA/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/Jeevaroshinibabu/DSA/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/Jeevaroshinibabu/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/Jeevaroshinibabu/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Jeevaroshinibabu/DSA/tree/master/0279-perfect-squares) |
@@ -291,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeevaroshinibabu/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Jeevaroshinibabu/DSA/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
