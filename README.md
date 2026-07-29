@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jeevaroshinibabu/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jeevaroshinibabu/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Jeevaroshinibabu/DSA/tree/master/0239-sliding-window-maximum) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Jeevaroshinibabu/DSA/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Jeevaroshinibabu/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Jeevaroshinibabu/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jeevaroshinibabu/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Jeevaroshinibabu/DSA/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeevaroshinibabu/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Jeevaroshinibabu/DSA/tree/master/0506-relative-ranks) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Jeevaroshinibabu/DSA/tree/master/0239-sliding-window-maximum) |
 ## Trie
 |  |
 | ------- |
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Jeevaroshinibabu/DSA/tree/master/0060-permutation-sequence) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Jeevaroshinibabu/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
