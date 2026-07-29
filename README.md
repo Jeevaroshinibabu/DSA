@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jeevaroshinibabu/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Jeevaroshinibabu/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Jeevaroshinibabu/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeevaroshinibabu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jeevaroshinibabu/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Jeevaroshinibabu/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jeevaroshinibabu/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jeevaroshinibabu/DSA/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/1260-shift-2d-grid) |
 ## Merge Sort
 |  |
