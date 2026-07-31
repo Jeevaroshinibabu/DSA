@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Jeevaroshinibabu/DSA/tree/master/0506-relative-ranks) |
 | [0869-reordered-power-of-2](https://github.com/Jeevaroshinibabu/DSA/tree/master/0869-reordered-power-of-2) |
 | [1288-remove-covered-intervals](https://github.com/Jeevaroshinibabu/DSA/tree/master/1288-remove-covered-intervals) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeevaroshinibabu/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jeevaroshinibabu/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0869-reordered-power-of-2](https://github.com/Jeevaroshinibabu/DSA/tree/master/0869-reordered-power-of-2) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jeevaroshinibabu/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevaroshinibabu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Jeevaroshinibabu/DSA/tree/master/0869-reordered-power-of-2) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jeevaroshinibabu/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Enumeration
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Jeevaroshinibabu/DSA/tree/master/0139-word-break) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jeevaroshinibabu/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeevaroshinibabu/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jeevaroshinibabu/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeevaroshinibabu/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jeevaroshinibabu/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeevaroshinibabu/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
