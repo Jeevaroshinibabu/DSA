@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Jeevaroshinibabu/DSA/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/Jeevaroshinibabu/DSA/tree/master/0506-relative-ranks) |
 | [0877-stone-game](https://github.com/Jeevaroshinibabu/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Jeevaroshinibabu/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Jeevaroshinibabu/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jeevaroshinibabu/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Jeevaroshinibabu/DSA/tree/master/0486-predict-the-winner) |
 | [0869-reordered-power-of-2](https://github.com/Jeevaroshinibabu/DSA/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/Jeevaroshinibabu/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jeevaroshinibabu/DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jeevaroshinibabu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeevaroshinibabu/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Jeevaroshinibabu/DSA/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Jeevaroshinibabu/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jeevaroshinibabu/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jeevaroshinibabu/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Jeevaroshinibabu/DSA/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeevaroshinibabu/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jeevaroshinibabu/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -347,9 +351,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jeevaroshinibabu/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jeevaroshinibabu/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jeevaroshinibabu/DSA/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
