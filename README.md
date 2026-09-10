@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Jeevaroshinibabu/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeevaroshinibabu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeevaroshinibabu/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Jeevaroshinibabu/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeevaroshinibabu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeevaroshinibabu/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeevaroshinibabu/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jeevaroshinibabu/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jeevaroshinibabu/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Jeevaroshinibabu/DSA/tree/master/3310-remove-methods-from-project) |
