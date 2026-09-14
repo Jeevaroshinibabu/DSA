@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jeevaroshinibabu/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Jeevaroshinibabu/DSA/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Jeevaroshinibabu/DSA/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Jeevaroshinibabu/DSA/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/Jeevaroshinibabu/DSA/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/Jeevaroshinibabu/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/1140-stone-game-ii) |
@@ -458,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jeevaroshinibabu/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Jeevaroshinibabu/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
