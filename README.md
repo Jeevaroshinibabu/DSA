@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jeevaroshinibabu/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jeevaroshinibabu/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Jeevaroshinibabu/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jeevaroshinibabu/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Jeevaroshinibabu/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jeevaroshinibabu/DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Jeevaroshinibabu/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jeevaroshinibabu/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/Jeevaroshinibabu/DSA/tree/master/0139-word-break) |
 | [0940-distinct-subsequences-ii](https://github.com/Jeevaroshinibabu/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jeevaroshinibabu/DSA/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jeevaroshinibabu/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeevaroshinibabu/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevaroshinibabu/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
